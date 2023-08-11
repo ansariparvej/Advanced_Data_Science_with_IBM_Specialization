@@ -3,7 +3,7 @@
 Course Link: [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)
 
 <p align="center">
-    <img src="./Badges/advanced_ds.png" width="50%" height="50%" title="IBM Specialization Certificate" >
+    <img src="https://images.credly.com/size/110x110/images/0a8e2321-c9a1-45b4-a61d-cae2636e9ea3/Adv_Data_Science_Specialization_-_Coursera.png" width="50%" height="50%" title="IBM Specialization Certificate" >
 </p>
 
 This reporatory contains the solutions of every questions/quizes/exercises to achieve the badge as well as a short summary for each course, including
@@ -38,10 +38,10 @@ This reporatory contains the solutions of every questions/quizes/exercises to ac
 ### 4. Advanced Data Science Capstone
 
 - [Course](https://www.coursera.org/learn/advanced-data-science-capstone)
-- [Solution](./Course%204:%20Advanced%20Data%20Science%20Capstone/README.md)
+- [Solution](https://github.com/ansariparvej/Advanced_Data_Science_with_IBM_Specialization/tree/main/Advanced%20Data%20Science_IBM/Course%204%3A%20Advanced%20Data%20Science%20Capstone)
 
 <p align="center">
-    <img src="./Badges/Advanced-Data-Science-Capstone.png" width="70%" height="50%" title="Badge 4" >
+    <img src="https://images.credly.com/size/110x110/images/00898a99-7e63-4203-b601-f063ee5f5018/Advanced_Data_Science_Capstone.png" width="40%" height="40%" title="Badge 4" >
 </p>
 
 ## Achievement goal:
