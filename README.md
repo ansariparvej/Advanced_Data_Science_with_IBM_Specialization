@@ -43,8 +43,3 @@ This reporatory contains the solutions of every questions/quizes/exercises to ac
 <p align="center">
     <img src="https://images.credly.com/size/340x340/images/00898a99-7e63-4203-b601-f063ee5f5018/Advanced_Data_Science_Capstone.png" width="40%" height="40%" title="Badge 4" >
 </p>
-
-## Achievement goal:
-<p align="center">
-    <img src="./Badges/Advanced-Data-Science-with-IBM.png" width="70%" height="50%" title="Badge" >
-</p>
