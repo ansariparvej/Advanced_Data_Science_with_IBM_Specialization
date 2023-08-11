@@ -22,17 +22,17 @@ This reporatory contains the solutions of every questions/quizes/exercises to ac
 ### 2. Advanced Machine Learning and Signal Processing
 
 - [Course](https://www.coursera.org/learn/advanced-machine-learning-signal-processing)
-- [Solution](./Course%202:%20Advanced%20Machine%20Learning%20and%20Signal%20Processing/README.md)
+- [Solution](https://github.com/ansariparvej/Advanced_Data_Science_with_IBM_Specialization/tree/main/Advanced%20Data%20Science_IBM/Course%202%3A%20Advanced%20Machine%20Learning%20and%20Signal%20Processing)
 <p align="center">
-    <img src="./Badges/Advanced-Machine-Learning-and-Signal-Processing.png" width="70%" height="50%" title="Badge 2" >
+    <img src="https://images.credly.com/size/340x340/images/007afae6-2754-4a7c-9c44-e95c64c93656/IBM_Watson_IoT-_Advanced_Machine_Learning_and_Signal_Processing.png" width="40%" height="40%" title="Badge 2" >
 </p>
 
 ### 3. Applied AI with Deep Learning
 
 - [Course](https://www.coursera.org/learn/ai)
-- [Solution](./Course%203:%20Applied%20AI%20with%20DeepLearning/README.md)
+- [Solution](https://github.com/ansariparvej/Advanced_Data_Science_with_IBM_Specialization/tree/main/Advanced%20Data%20Science_IBM/Course%203%3A%20Applied%20AI%20with%20DeepLearning)
 <p align="center">
-    <img src="./Badges/Applied-AI-with-DeepLearning.png" width="70%" height="50%" title="Badge 3" >
+    <img src="[./Badges/Applied-AI-with-DeepLearning.png](https://images.credly.com/size/340x340/images/c2cc3091-c033-40c0-9cfc-2d5d78a3fa30/Applied_AI_with_Deep_Learning.png)" width="40%" height="40%" title="Badge 3" >
 </p>
 
 ### 4. Advanced Data Science Capstone
