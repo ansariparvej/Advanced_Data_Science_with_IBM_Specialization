@@ -13,7 +13,7 @@ This reporatory contains the solutions of every questions/quizes/exercises to ac
 ### 1. Fundamentals of Scalable Data Science
 
 - [Course](https://www.coursera.org/learn/ds)
-- [Solution](./Course%201:%20Fundamentals%20of%20Scalable%20Data%20Science/README.md)
+- [Solution](https://www.credly.com/badges/3d69df0f-6000-420e-9b3b-3bed4c4fc585/public_url)
 <p align="center">
     <img src="./Badges/Fundamentals-of-Scalable-Data-Science.png" width="70%" height="50%" title="Badge 1" >
 </p>
