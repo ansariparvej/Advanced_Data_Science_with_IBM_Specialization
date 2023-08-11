@@ -15,9 +15,8 @@ This reporatory contains the solutions of every questions/quizes/exercises to ac
 - [Course](https://www.coursera.org/learn/ds)
 - [Solution](https://github.com/ansariparvej/Advanced_Data_Science_with_IBM_Specialization/tree/main/Advanced%20Data%20Science_IBM/Course%201%3A%20Fundamentals%20of%20Scalable%20Data%20Science)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3d69df0f-6000-420e-9b3b-3bed4c4fc585" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <p align="center">
-    <img src="(https://images.credly.com/size/110x110/images/d3d687ea-c3a8-43c8-96bb-704658c71a4a/Fundamentals_of_Scalable_Data_Science.png)" width="70%" height="50%" title="Badge 1" >
+    <img src="https://github.com/ansariparvej/Advanced_Data_Science_with_IBM_Specialization/blob/main/Credly%20Badges/FundamentalsofScalableDataScience_Badge20230808-28-alcmtk.pdf" width="70%" height="50%" title="Badge 1" >
 </p>
 
 ### 2. Advanced Machine Learning and Signal Processing
