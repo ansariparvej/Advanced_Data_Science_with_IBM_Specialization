@@ -32,7 +32,7 @@ This reporatory contains the solutions of every questions/quizes/exercises to ac
 - [Course](https://www.coursera.org/learn/ai)
 - [Solution](https://github.com/ansariparvej/Advanced_Data_Science_with_IBM_Specialization/tree/main/Advanced%20Data%20Science_IBM/Course%203%3A%20Applied%20AI%20with%20DeepLearning)
 <p align="center">
-    <img src="[./Badges/Applied-AI-with-DeepLearning.png](https://images.credly.com/size/340x340/images/c2cc3091-c033-40c0-9cfc-2d5d78a3fa30/Applied_AI_with_Deep_Learning.png)" width="40%" height="40%" title="Badge 3" >
+    <img src="(https://images.credly.com/size/340x340/images/c2cc3091-c033-40c0-9cfc-2d5d78a3fa30/Applied_AI_with_Deep_Learning.png)" width="40%" height="40%" title="Badge 3" >
 </p>
 
 ### 4. Advanced Data Science Capstone
